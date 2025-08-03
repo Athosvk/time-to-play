@@ -1,4 +1,4 @@
-# Gamedev Game - Time to Play
+# Gamejam Game - Time to Play
 
 Time to Play is a prototype for a game that we created during a gamejam in 2014 (!). If I recall correctly, the gamedev had a theme around the younger audience. 
 
